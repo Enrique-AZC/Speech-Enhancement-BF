@@ -1,10 +1,10 @@
-%%  PRÁCTICA 5: Beamforming Delay-and-Sum para realce de voz en ambiente ruidoso
+%%  Beamforming Delay-and-Sum para realce de voz en ambiente ruidoso
 % --------------------------------------------------------------
 % Autores: Enrique Alcalá-Zamora Castro
 %          Andrea Bañón Triguero
 % --------------------------------------------------------------
 % Descripción:
-% En esta práctica se implementa un beamformer Delay-and-Sum (D&S)
+% Se implementa un beamformer Delay-and-Sum (D&S)
 % en el dominio de la frecuencia para mejorar la calidad de una
 % señal de voz capturada por un array lineal de micrófonos, en
 % presencia de ruido interferente.
